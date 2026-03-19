@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**allangarciacs/allangarciacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Allan Storch Garcia, a Computer Science student (3rd semester) at Universidade Franciscana (UFN), currently focused on backend development with Java and Spring Boot.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Spring Boot
+- REST APIs
+- Object-Oriented Programming (OOP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: [allangarciacs](https://linkedin.com/in/allangarciacs)
+- Email: allan.storch21@gmail.com
+- Academic e-mail: allan.garcia@ufn.edu.br
+
