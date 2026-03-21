@@ -2,7 +2,7 @@
 
 I'm Allan Storch Garcia, a Computer Science student (3rd semester) at Universidade Franciscana (UFN), with academic experience in Python, Java, and C++. Currently focused on backend development with Java and Spring Boot.
 
-## 📚 Currently Learning
+## Currently Learning
 - Spring Boot
 - REST APIs
 - Object-Oriented Programming (OOP)
